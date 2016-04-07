@@ -1,5 +1,13 @@
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
 <script type='text/javascript' src='/js/send.js'></script>
+<script>
+    $(document).ready(function(){
+        $('.but_call').click (function{
+            $('#phone').value()
+        })
+    };
+</script>
+
 
 <div class='window_show green'>
     Ваш номер телефона:<br><br>
@@ -27,7 +35,11 @@
       <td><a class="text_ramka" href="dyshevaia"><div class="ramka">Установка душевой кабины<embed class="swf" src="/images/dyshevaia.gif" width="60" height="76"></div></a></td>
       <td><a class="text_ramka" href="vodonagrevatel"><div class="ramka">Установка водонагревателя<embed class="swf" src="/images/vodonagrevatel.gif" width="40" height="73"></div></a></td>
       <td><a class="text_ramka" href="ynitaz"><div class="ramka">Установка унитаза<embed class="swf" src="/images/ynitaz.gif" width="65" height="75"></div></a></td>
-      <td><a class="text_ramka" href="vanna"><div class="ramka">Установка ванны, умывальника<embed class="swf" src="/images/vanna.gif" width="80" height="65"></div></a></td>
+      <td><a class="text_ramka" href="vanna"><div class="ramka">Установка ванны, умывальника<embed class="swf" src="/images/vanna.gif" width="80" height="65"></div></a>
+    </tr>
+    <tr>
+        <td><a class="text_ramka" href="stiralka"><div class="ramka">Установка стиральной машины<embed class="swf" src="/images/stiralka.gif" width="80" height="65"></div></a></td>
+        <td><a class="text_ramka" href="pol"><div class="ramka">Установка тёплого пола<embed class="swf" src="/images/pol.gif" width="80" height="65"></div></a></td>
     </tr>
   </tbody>
 </table>

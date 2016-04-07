@@ -7,7 +7,3 @@ class Controller_smesitel extends Controller
 
 	}
 }
-
-
-
-?>
