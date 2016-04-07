@@ -38,10 +38,6 @@
       <td><a class="text_ramka" href="ynitaz"><div class="ramka">Установка унитаза<embed class="swf" src="/images/ynitaz.gif" width="65" height="75"></div></a></td>
       <td><a class="text_ramka" href="vanna"><div class="ramka">Установка ванны, умывальника<embed class="swf" src="/images/vanna.gif" width="80" height="65"></div></a>
     </tr>
-    <tr>
-        <td><a class="text_ramka" href="stiralka"><div class="ramka">Установка стиральной машины<embed class="swf" src="/images/stiralka.gif" width="80" height="65"></div></a></td>
-        <td><a class="text_ramka" href="pol"><div class="ramka">Установка тёплого пола<embed class="swf" src="/images/pol.gif" width="80" height="65"></div></a></td>
-    </tr>
   </tbody>
 </table>
 <img class="menu_back_2" src="/images/footer_3.jpg"/>
