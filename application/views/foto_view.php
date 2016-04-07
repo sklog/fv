@@ -23,4 +23,7 @@ $("a.content").fancybox({"frameWidth":600,"frameHeight":300});
 <a class="two" rel="group"  href="images/gallery/img_11.jpg"><img class="image" src="images/gallery/img_11.jpg" /></a>
 <a class="two" rel="group"  href="images/gallery/img_12.jpg"><img class="image" src="images/gallery/img_12.jpg" /></a>
 <a class="two" rel="group"  href="images/gallery/img_13.jpg"><img class="image" src="images/gallery/img_13.jpg" /></a>
+<a class="two" rel="group"  href="images/gallery/img_14.jpg"><img class="image" src="images/gallery/img_14.jpg" /></a>
+<a class="two" rel="group"  href="images/gallery/img_15.jpg"><img class="image" src="images/gallery/img_15.jpg" /></a>
+<a class="two" rel="group"  href="images/gallery/img_16.jpg"><img class="image" src="images/gallery/img_16.jpg" /></a>
 </div>
