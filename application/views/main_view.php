@@ -1,9 +1,10 @@
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
 <script type='text/javascript' src='/js/send.js'></script>
 <script>
+    var v =
     $(document).ready(function(){
         $('.but_call').click (function{
-            $('#phone').value()
+            $('#phone').val()
         })
     };
 </script>
