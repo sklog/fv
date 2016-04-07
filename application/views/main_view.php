@@ -20,7 +20,7 @@
 </div>
 
 <h1 class="t1">Выберите услугу:</h1>
-<table style="width: 100%;" border="1">
+<table style="width: 100%;">
   <tbody>
       <tr>
       <td><a class="text_ramka" href="schetchiki"><div class="ramka">Счетчики воды. Установка и замена<embed class="swf" src="/images/schetchiki.gif" width="115" height="60"></div></a></td>
@@ -40,6 +40,7 @@
     </tr>
   </tbody>
 </table>
+
 <img class="menu_back_2" src="/images/footer_3.jpg"/>
 <h1 class="t2">Наши клиенты:</h1>
 <table class="table_2"> 
