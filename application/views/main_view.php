@@ -19,8 +19,10 @@
       <td><a class="text_ramka" href="trybi"><div class="ramka">Замена труб водоснабжения и канализации<embed class="swf" src="/images/trybi.gif" width="80" height="61"></div></a></td>
       <td><a class="text_ramka" href="zamena"><div class="ramka">Ремонт сантехники<embed class="swf" src="/images/zamena.gif" width="51" height="70"></div></a></td>
       <td><a class="text_ramka" href="polotencesyshitel"><div class="ramka">Установка полотенцесушителя<embed class="swf" src="/images/polotence.gif" width="55" height="75"></div></a></td>
+      <td><a class="text_ramka" href="stiralka"><div class="ramka">Установка стиральной машины<p><embed class="swf" src="/images/stiralka.gif" width="54" height="68"></p></div></a></td>
     </tr>
     <tr>
+      <td><a class="text_ramka" href="smesitel"><div class="ramka">Установка теплого пола<embed class="swf" src="/images/pol.gif" width="95" height="79"></div></a></td>
       <td><a class="text_ramka" href="smesitel"><div class="ramka">Установка смесителя<embed class="swf" src="/images/smesitel.gif" width="90" height="60"></div></a></td>
       <td><a class="text_ramka" href="dyshevaia"><div class="ramka">Установка душевой кабины<embed class="swf" src="/images/dyshevaia.gif" width="60" height="76"></div></a></td>
       <td><a class="text_ramka" href="vodonagrevatel"><div class="ramka">Установка водонагревателя<embed class="swf" src="/images/vodonagrevatel.gif" width="40" height="73"></div></a></td>
@@ -31,7 +33,7 @@
 </table>
 <img class="menu_back_2" src="/images/footer_3.jpg"/>
 <h1 class="t2">Наши клиенты:</h1>
-<table class="table_2">
+<table class="table_2"> 
   <tbody>
     <tr valign="top">
       <td class="text_ramka"><div class="ramka_2">Бизнес-центр<br>«Sky Towers»<br><br><img alt="Skytowers" class="img_k"src="/images/skytowers.jpg" ></div></td>
@@ -42,7 +44,7 @@
     </tr>
   </tbody>
 </table>
-<table class="table_3">
+<table class="table_3"> 
   <tbody>
     <tr valign="top">
       <td style="width:10px;"></td>
