@@ -31,7 +31,7 @@
       <td><a class="text_ramka" href="stiralka"><div class="ramka">Установка стиральной машины<p><embed class="swf" src="/images/stiralka.gif" width="54" height="68"></p></div></a></td>
     </tr>
     <tr>
-      <td><a class="text_ramka" href="smesitel"><div class="ramka">Установка теплого пола<embed class="swf" src="/images/pol.gif" width="95" height="79"></div></a></td>
+      <td><a class="text_ramka" href="pol"><div class="ramka">Установка теплого пола<embed class="swf" src="/images/pol.gif" width="95" height="79"></div></a></td>
       <td><a class="text_ramka" href="smesitel"><div class="ramka">Установка смесителя<embed class="swf" src="/images/smesitel.gif" width="90" height="60"></div></a></td>
       <td><a class="text_ramka" href="dyshevaia"><div class="ramka">Установка душевой кабины<embed class="swf" src="/images/dyshevaia.gif" width="60" height="76"></div></a></td>
       <td><a class="text_ramka" href="vodonagrevatel"><div class="ramka">Установка водонагревателя<embed class="swf" src="/images/vodonagrevatel.gif" width="40" height="73"></div></a></td>
