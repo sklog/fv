@@ -4,23 +4,30 @@
  cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td style="background-color:AliceBlue;height:60px;"><p class="m">Название услуги</p></td>
-      <td style="background-color:AliceBlue"><p class="m">Стоимость</p></td>
+      <td style="background-color:AliceBlue;"><p class="m">Название услуги</p></td>
+      <td style="background-color:AliceBlue"><p class="m">Цена</p></td>
     </tr>
     <tr>
-      <td height="60"><p class="m">замена радиатора отопления на резьбовых соединениях</p></td>
-      <td><p class="m">3 000 руб</p></td>
+      <td><p class="m">Перенос/замена и подключение радиатора отопления в квартире</p></td>
+      <td><p class="m">1 200 000</p></td>
     </tr>
     <tr>
-      <td height="60"><p class="m">замена радиатора отопления на сварке</p></td>
-      <td><p class="m">3 500 руб</p></td>
+      <td><p class="m">Точка отопления</p></td>
+      <td><p class="m">900 000</p></td>
     </tr>
-    <tr>
-      <td height="60"><p class="m">замена/перенос стояка отопления</p></td>
-      <td><p class="m">4 000 руб</p></td>
+     <tr>
+      <td><p class="m">Подключение коллектора (гребенки)</p></td>
+      <td><p class="m">900 000</p></td>
+    </tr>
+        <tr>
+      <td><p class="m">Обвязка котла</p></td>
+      <td><p class="m">230 000</p></td>
+    </tr>
+        <tr>
+      <td><p class="m">Прокладка стояков,  за 1 пог.м</p></td>
+      <td><p class="m">60 000</p></td>
     </tr>
   </tbody>
-</table><br>
-В стоимость услуг включены демонтажные работы.<br>
+</table>
 </div>
 </div><br>

@@ -5,7 +5,7 @@
   <tbody>
     <tr>
       <td style="background-color:AliceBlue"><p class="m">Название услуги</p></td>
-      <td style="background-color:AliceBlue"><p class="m">Стоимость</p></td>
+      <td style="background-color:AliceBlue"><p class="m">Цена</p></td>
     </tr>
     <tr>
       <td><p class="m">Установка смесителя на умывальник, ванну, кухонную мойку</p></td>

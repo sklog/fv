@@ -15,10 +15,6 @@
       <td><p class="m">Монтаж рамы инсталляции</p></td>
       <td><p class="m">800 000</p></td>
     </tr>
-        <tr>
-      <td><p class="m">демонтаж унитаза</p></td>
-      <td><p class="m"></p></td>
-    </tr>
   </tbody>
 </table>
 </div>
