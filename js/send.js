@@ -12,6 +12,7 @@ $(function () {
       },
       error: function(xhr, status){
         $("#resp").html("<span>" + status + "</span>");
+
       }
     });
   });

@@ -8,6 +8,7 @@ if ($name[1]==$value)
 {$style[$key]="text-decoration:underline;color:orange";}
 }
 
+
 echo <<<TXT
 <div class="dop_menu">
 <table style="text-align: left; width: 100%;height:120px" border="0"

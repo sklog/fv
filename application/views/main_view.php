@@ -12,6 +12,7 @@
 
 
 
+
 <div class='window_show green'>
     Ваш номер телефона:<br><br>
     <form action="telefon" method="POST">
@@ -20,6 +21,9 @@
         <input class="but_call" name="sub" type="submit" value="Перезвоните мне!">
     </form>
 </div>
+
+
+
 
 
 <h1 class="t1">Выберите услугу:</h1>

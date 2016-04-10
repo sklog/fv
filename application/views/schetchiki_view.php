@@ -6,5 +6,3 @@ include_once("dopmenu_view.php");
 include_once("price/p_1.php");
 ?>
 </div>
-
-

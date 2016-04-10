@@ -4,7 +4,7 @@
  cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td style="background-color:AliceBlue"><p class="m">Название услуги</p></td>
+      <td style="background-color:AliceBlue;width:80%;"><p class="m">Название услуги</p></td>
       <td style="background-color:AliceBlue"><p class="m">Цена</p></td>
     </tr>
      <tr>
