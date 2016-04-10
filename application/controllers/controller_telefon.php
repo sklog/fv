@@ -4,8 +4,7 @@ class Controller_telefon extends Controller
 {
 	function action_index()
 	{
-        session_start();
-        if ($_SESSION["telefon"] == $_POST['telefon']) die('<font color="#8b0000">Вы уже отправили данные</font>');
+
         if($_POST['telefon'] == '+375' or empty($_POST['telefon'])) die('<font color="#8b0000">Заполните поле!</font>');
         $tell = $_POST['telefon'];
         $_SESSION["telefon"] = $_POST["telefon"];
