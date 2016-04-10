@@ -21,20 +21,19 @@
     </form>
 </div>
 
-<div id=fds>
+
 <h1 class="t1">Выберите услугу:</h1>
+<div id="fds">
 <table style="width: 100%;">
   <tbody>
       <tr>
       <td><a class="text_ramka" href="schetchiki"><div class="ramka">Счетчики воды. Установка и замена<img class="swf" src="/images/schetchiki.gif" width="115" height="60"></div></a></td>
       <td><a class="text_ramka" href="radiatory"><div class="ramka">Замена радиаторов отопления<img class="swf" src="/images/radiator.gif" width="80" height="60"></div></a></td>
       <td><a class="text_ramka" href="trybi"><div class="ramka">Замена труб водоснабжения и канализации<img class="swf" src="/images/trybi.gif" width="80" height="61"></div></a></td>
-      <td><a class="text_ramka" href="zamena"><div class="ramka">Ремонт сантехники<img class="swf" src="/images/zamena.gif" width="51" height="70"></div></a></td>
       <td><a class="text_ramka" href="polotencesyshitel"><div class="ramka">Установка полотенцесушителя<img class="swf" src="/images/polotence.gif" width="55" height="75"></div></a></td>
-      <td><a class="text_ramka" href="stiralka"><div class="ramka">Установка стиральной машины<p><img class="swf" src="/images/stiralka.gif" width="54" height="68"></p></div></a></td>
+      <td><a class="text_ramka" href="pol"><div class="ramka">Установка теплого пола<img class="swf" src="/images/pol.gif" width="95" height="79"></div></a></td>
     </tr>
     <tr>
-      <td><a class="text_ramka" href="pol"><div class="ramka">Установка теплого пола<img class="swf" src="/images/pol.gif" width="95" height="79"></div></a></td>
       <td><a class="text_ramka" href="smesitel"><div class="ramka">Установка смесителя<img class="swf" src="/images/smesitel.gif" width="90" height="60"></div></a></td>
       <td><a class="text_ramka" href="dyshevaia"><div class="ramka">Установка душевой кабины<img class="swf" src="/images/dyshevaia.gif" width="60" height="76"></div></a></td>
       <td><a class="text_ramka" href="vodonagrevatel"><div class="ramka">Установка водонагревателя<img class="swf" src="/images/vodonagrevatel.gif" width="40" height="73"></div></a></td>

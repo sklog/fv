@@ -1,1 +1,12 @@
-price
+<?php
+include_once("price/p_1.php");
+include_once("price/p_2.php");
+include_once("price/p_3.php");
+include_once("price/p_4.php");
+include_once("price/p_5.php");
+include_once("price/p_6.php");
+include_once("price/p_7.php");
+include_once("price/p_8.php");
+include_once("price/p_9.php");
+include_once("price/p_10.php");
+?>

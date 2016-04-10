@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ru">
 <head>
 	<link rel="stylesheet" type="text/css" href="/css/css.css" />
@@ -10,6 +9,7 @@
 	<table class="menu">
 		<tr>
 		<td><a class="text_menu" href="/">Вызов-сантехника.бел</a></td>
+		<td><a class="text_menu" href="/">Главная</a></td>
 		<td><a class="text_menu" href="foto">Фото</a></td>
 		<td><a class="text_menu" href="price">Цены</a></td>
 		<td style="width:500px"><a class="text_menu" style="margin-left:150px" href="/">Консультация: МТС +37533 352 74 30</a></td>
