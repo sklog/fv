@@ -9,6 +9,7 @@ $(function () {
       data: {telefon: telefon},
       success: function(data){
         $("#resp").html(data);
+          $("#phone").val('+375');
       },
       error: function(xhr, status){
         $("#resp").html("<span>" + status + "</span>");

@@ -1,14 +1,6 @@
 <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js'></script>
 <script type='text/javascript' src='/js/send.js'></script>
 <script type='text/javascript' src='/js/in.js'></script>
-<script>
-    var v =
-    $(document).ready(function(){
-        $('.but_call').click (function{
-            $('#phone').val()
-        })
-    };
-</script>
 
 
 
@@ -17,7 +9,7 @@
     Ваш номер телефона:<br><br>
     <form action="telefon" method="POST">
         <div id="resp"></div>
-        <input type="text" value="+375" name="telefon" id="phone"><br><br>
+        <input id="phone" type="text" value="+375" name="telefon"><br><br>
         <input class="but_call" name="sub" type="submit" value="Перезвоните мне!">
     </form>
 </div>
