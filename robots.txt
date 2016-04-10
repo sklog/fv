@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Host:вызов-сантехника.бел
+Sitemap: http://вызов-сантехника.бел/sitemap.xml
