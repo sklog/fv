@@ -2,9 +2,6 @@
 <script type='text/javascript' src='/js/send.js'></script>
 <script type='text/javascript' src='/js/in.js'></script>
 
-
-
-
 <div class='window_show green'>
     Ваш номер телефона:<br><br>
     <form action="telefon" method="POST">
@@ -18,7 +15,8 @@
 
 
 
-<h1 class="t1">Выберите услугу:</h1>
+
+<h1 class="t1">Услуги сантехника:</h1>
 <div id="fds">
 <table style="width: 100%;">
   <tbody>
@@ -42,7 +40,7 @@
 
 
 <img class="menu_back_2" src="/images/footer_3.jpg"/>
-<h1 class="t2">Наши клиенты:</h1>
+<h2 class="t2">Наши клиенты:</h2>
 <table class="table_2"> 
   <tbody>
     <tr valign="top">
@@ -63,7 +61,7 @@
 <table style="width:100%;" border="0">
   <tr>
     <td>
-  <h1 class="t3">О нас:</h1><br>
+  <h2 class="t3">О нас:</h2><br>
 <ul>
 <li>С сантехникой работаем с 2006 года.</li><br>
 <li>Обратившись к нам вы можете быть уверены в решении поставленных задач.</li><br>
