@@ -23,6 +23,17 @@ font-size:16px;
 line-height: 1.4;
 }
 
+.text_sitemap
+{
+margin-left:40px;
+color:black;
+text-decoration:line;	
+font-family:Helvetica;
+font-size:16px;
+line-height: 1.4;
+}
+
+
 
 .menu_back
 {
@@ -172,7 +183,7 @@ font-size:14px;
 background-color:white;
 padding:50px;
 border-radius:10px;
-background-image: url(/images/kran.png);
+background-image: url(/images/kran_2.gif);
 }
 
 .bottom
